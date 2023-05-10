@@ -108,7 +108,7 @@ Download the repository and set up the bot to start using it!
 ### Installation
 
 Please check out the [Documentation](https://docs.cipher-bots.com/) for a full guide (adapt it according to the fact that this is open-source now)
-Technically the bot should be working without any problems if you setup your files accordingly.
+You will need a Twitter Developer Account to get this to work. This is not needed for the accounts, it's just needed to do the checks required to enter the giveaways. Enter your Developer credentials in the `Twitter.py` file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
